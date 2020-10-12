@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OpenCTF</title>
+<meta name="description" content="">
+<meta name="author" content="Neg9">
+
+<!-- Favicons
+    ================================================== -->
+<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
+
+<!-- Bootstrap -->
+<link rel="stylesheet" type="text/css"  href="/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/css/fontawesome.min.css">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/css/solid.min.css">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/css/brands.min.css">
+
+<!-- Stylesheet
+    ================================================== -->
+<link rel="stylesheet" type="text/css"  href="/css/style.css">
+<!--<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">-->
+
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+<!-- Navigation
+    ==========================================-->
+<nav id="menu" class="navbar navbar-default navbar-expand-lg navbar-light sticky-top navbar-fixed-top">
+  <a class="navbar-brand" href="#">OpenCTF</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <div></div>
+    <ul class="nav navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Inici <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#about">Quant a</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#pricing">Preu</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#services">Serveis</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#contact">Contacte</a>
+      </li>
+      <!--<li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>-->
+    </ul>
+    <div></div>
+    <!--<form class="form-inline my-2 my-lg-0">
+      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    </form>-->
+  </div>
+</nav>
+
+<!-- Header -->
+<header id="header">
+  <div class="intro">
+    <div class="overlay">
+      <div class="container">
+        <div class="row justify-content-md-center">
+          <div class="intro-text">
+            <h1>OpenCTF &mdash; DEF CON 27</h1>
+            <p>Piratejar a DEF CON</p>
+            <a href="#about" class="btn btn-custom btn-lg page-scroll">Començar</a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<!-- Quant a Section -->
+<div id="about">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>Quant a OpenCTF</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-6"> <img src="img/about.jpg" class="img-fluid img-thumbnail" alt=""> </div>
+      <div class="col-xs-12 col-md-6">
+        <div class="about-text">
+          <h3>Inscripció</h3>
+          <p>La inscripció es dóna primer cop amb un toc de veïna: es pot jugar des de qualsevol lloc a DEF CON.</p>
+          <p></p>
+          <p></p>
+          <div class="list-style">
+            <div class="col-lg-6 col-sm-6 col-xs-12">
+              <ul>
+                <li>Arribar als concursos divendres al matí.</li>
+                <li>Registra el teu equip amb Neg9.</li>
+                <li>Inicieu la sessió al marcador mitjançant HTTPS.</li>
+                <li>Resoldre reptes.</li>
+                <li>Envieu les claus.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Serveis Section -->
+<div id="services" class="text-center">
+  <div class="container">
+    <div class="col-md-10 offset-md-1 section-title">
+      <h2>Els Nostres Serveis</h2>
+      <hr>
+      <p>Posarem a punt un marcador d'estil Jeopardy.</p>
+    </div>
+    <div class="row">
+      <div class="col-xs-6 col-md-3"> <i class="fas fa-cat"></i>
+        <h4>Pwnable</h4>
+        <p>Pirategeu el servei escrivint un exploit personalitzat.</p>
+      </div>
+      <div class="col-xs-6 col-md-3"> <i class="fas fa-lock"></i>
+        <h4>Crypto</h4>
+        <p>Criptanalitzar un codi de text o un sistema de claus.</p>
+      </div>
+      <div class="col-xs-6 col-md-3"> <i class="fas fa-globe"></i>
+        <h4>Web</h4>
+        <p>Trobeu vulnerabilitats al protocol més interessant d'Internet.</p>
+      </div>
+      <div class="col-xs-6 col-md-3"> <i class="fas fa-reply"></i>
+        <h4>Enginyeria Inversa</h4>
+        <p>Cerqueu un indicador amagat en un binari.</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Preu Section -->
+<div id="pricing" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>Preu</h2>
+      <hr>
+      <p>Confiem que trobareu els nostres preus que supera la indústria de les CTF avg()</p>
+    </div>
+    <div class="row">
+      <div class="col-md-4 col-sm-4">
+        <div class="pricing-table">
+          <div class="plan-name">
+            <h3>Bàsic</h3>
+          </div>
+          <div class="plan-price">
+            <div class="price-value">Gratuït</div>
+          </div>
+          <div class="plan-list">
+            <ul>
+              <li><strong>0 GB</strong> d’espai de disc</li>
+              <li>Amplada de banda mensual de <strong>100 GB</strong></li>
+              <li><strong>∞-2</strong> dominis</li>
+              <li><strong>8</strong> comptes de correu electrònic</li>
+              <li><strong>Configuració</strong> gratuïta</li>
+            </ul>
+          </div>
+          <div class="plan-signup"> <a href="#" class="btn-system">Ordenar ara</a> </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4">
+        <div class="pricing-table highlight-plan">
+          <div class="plan-name">
+            <h3>Estàndard</h3>
+          </div>
+          <div class="plan-price">
+            <div class="price-value">$20</div>
+          </div>
+          <div class="plan-list">
+            <ul>
+              <li><strong>1 KB</strong> d’espai de disc</li>
+              <li>Amplada de banda mensual de <strong>200 GB</strong></li>
+              <li><strong>∞-1</strong> Dominis</li>
+              <li><strong>7</strong> comptes de correu electrònic</li>
+              <li><strong>Configuració</strong> gratuïta</li>
+            </ul>
+          </div>
+          <div class="plan-signup"> <a href="#" class="btn-system border-btn">Ordenar ara</a> </div>
+        </div>
+      </div>
+      <div class="col-md-4 col-sm-4">
+        <div class="pricing-table">
+          <div class="plan-name">
+            <h3>Professional</h3>
+          </div>
+          <div class="plan-price">
+            <div class="price-value">$31337</div>
+          </div>
+          <div class="plan-list">
+            <ul>
+              <li><strong>20 MB</strong> d’espai de disc</li>
+              <li>Amplada de banda mensual de <strong>1094795585 GB</strong></li>
+              <li><strong>∞</strong> Dominis</li>
+              <li><strong>6</strong> comptes de correu electrònic</li>
+              <li><strong>Configuració</strong> gratuïta</li>
+            </ul>
+          </div>
+          <div class="plan-signup"> <a href="#" class="btn-system">Ordenar ara</a> </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="teaser">
+  <div class="container">
+    <div class="section-title text-center center">
+      <h2>Teaser</h2>
+      <hr>
+    </div>
+    <div class="row">
+      <div class="col-xs-12 col-md-6"> 
+      <center>Prometem circuits!</center>
+      <img src="img/IMG_20140427_182042alo.png" alt="Circuit" />
+      </div>
+      <div class="col-xs-12 col-md-6"> 
+      <center>Prometem reptes fàcils!</center>
+      <img src="img/IMG_20150322_003926alo.png" alt="MasterLock" />
+      </div>
+      <div class="col-xs-12 col-md-6"> 
+      <center>Prometem reptes durs!</center>
+      <img src="img/1230741679152alo.jpg" alt="Spaceship" />
+      </div>
+      <div class="col-xs-12 col-md-6"> 
+      <center>Prometem reptes de les velles escoles!</center>
+      <img src="img/IMG_20180621_164043alo.png" alt="Tractor Feed" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Contacte Section -->
+<div id="contact" class="text-center">
+  <div class="container">
+    <div class="section-title center">
+      <h2>Contactea amb nosaltres</h2>
+      <hr>
+      <p>No acceptarem les vostres preguntes o comentaris a través del formulari següent. Envieu-nos un correu electrònic a <a href="mailto:openctf at neg9 dot org">openctf at neg9 dot org</a></p>
+    </div>
+    <div class="col-md-8 offset-md-2">
+      <form name="sentMissatge" id="contactForm" novalidate>
+        <div class="row">
+          <div class="col-md-6">
+            <div class="form-group">
+              <input type="text" id="name" class="form-control" placeholder="Nom" required="required">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="form-group">
+              <input type="email" id="email" class="form-control" placeholder="Correu electrònic" required="required">
+              <p class="help-block text-danger"></p>
+            </div>
+          </div>
+        </div>
+        <div class="form-group">
+          <textarea name="message" id="message" class="form-control" rows="4" placeholder="Missatge" required></textarea>
+          <p class="help-block text-danger"></p>
+        </div>
+        <div id="success"></div>
+        <button type="submit" class="btn btn-custom btn-lg">Enviar missatge</button>
+      </form>
+      <div class="social">
+        <ul>
+          <li><a href="https://twitter.com/open_ctf"><i class="fab fa-twitter"></i></a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="footer">
+  <div class="container text-center">
+    <div class="fnav">
+      <p>Copyright &copy; 2019 Neg9. Designed by <a href="http://www.templatewire.com" rel="nofollow">TemplateWire</a></p>
+    </div>
+  </div>
+</div>
+<script type="text/javascript" src="/js/jquery-3.3.1.min.js"></script> 
+<script type="text/javascript" src="/js/bootstrap.min.js"></script> 
+<script type="text/javascript" src="/js/smooth-scroll.js"></script> 
+<script type="text/javascript" src="/js/main.js"></script>
+</body>
+</html>

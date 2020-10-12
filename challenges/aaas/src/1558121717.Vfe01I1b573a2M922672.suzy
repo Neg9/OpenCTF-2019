@@ -1,0 +1,835 @@
+Return-Path: <bounce-63_HTML-79651019-2821496-7219217-23@bounce.aaas.sciencepubs.org>
+X-Original-To: {email}
+Delivered-To: {email}
+Received: from dmitry.altsci.com (altsci.com [216.218.134.11])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mail.altsci.com (Postfix) with ESMTPS id C429B48824C
+	for <{email}>; Fri, 17 May 2019 12:35:17 -0700 (PDT)
+Received: from mta.aaas.sciencepubs.org (mta.aaas.sciencepubs.org [136.147.185.95])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by dmitry.altsci.com (Postfix) with ESMTPS id CDB2A33EBD5
+	for <{email}>; Fri, 17 May 2019 12:34:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; s=200608; d=aaas.sciencepubs.org;
+ h=From:To:Subject:Date:List-Unsubscribe:MIME-Version:Reply-To:List-ID:
+ Message-ID:Content-Type; i=announcements@aaas.sciencepubs.org;
+ bh=vtyS2Dc/MwJyYK+O4wFHbpuV5PoUtc7kP/zkNB4Su/s=;
+ b=qy2jNM6KsLsH8HPCu2AtZHSULzO4PGFAaEKVEKanfyHicZxqA7bbhFZvlNC1PdIJ67Snotca5ytz
+   PuYH9bdcHPdlztEDRyiuF2xoKoib0A0t0JJGny127QBEkz4M5NfD8Bnm40ANW6fLIwDS0YhQd6cQ
+   8Hp5unVugr73UFrzAQQ=
+Received: by mta.aaas.sciencepubs.org id hrs6d62fmd49 for <{email}>; Fri, 17 May 2019 19:34:41 +0000 (envelope-from <bounce-63_HTML-79651019-2821496-7219217-23@bounce.aaas.sciencepubs.org>)
+From: "AAAS Science Advances" <announcements@aaas.sciencepubs.org>
+To: <{email}>
+Subject: Science Advances Notification for 17 May 2019
+Date: Fri, 17 May 2019 13:34:40 -0600
+List-Unsubscribe: <mailto:leave-fd8212731a3c402029-fe5913797361057d741d-fe8f16787765007473-fe921372746d067c72-ff9a1673@leave.aaas.sciencepubs.org>
+MIME-Version: 1.0
+Reply-To: "American Association For The Advancement Of Science" <reply-fe8f16787765007473-63_HTML-79651019-7219217-23@aaas.sciencepubs.org>
+List-ID: <7219217.xt.local>
+X-CSA-Complaints: whitelistcomplaints@eco.de
+x-job: 7219217_2821496
+Message-ID: <78ff5cc7-8a45-4b83-abf2-b8d36a090efa@xtgap4s7mta1587.xt.local>
+Content-Type: multipart/alternative;
+	boundary="tLEaIIYcPCdO=_?:"
+
+This is a multi-part message in MIME format.
+
+--tLEaIIYcPCdO=_?:
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+Science/AAAS 
+
+  
+Brought to you by Jackson Immuno Research
+
+http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359abce9e3e2e7f12f653b9ada71b139e8a4892d0b66d56a9748f47f9a2cae7864c5b2c366d94a5119347f43b541cfea4206 
+
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f7baaf0ead85fb7cf795da03234ca5049b7fd0ba3355a4730cf108db18f6b377f7c5c7a2bc1a0127425e62b930b024dbb 
+   
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f6a0ed370fd43ef4b20b2297db4b75af3459bc7102681333d8541034f2d7f8151984a5e8c1f01fd25b4acf1aa224c33fd 
+
+ 
+
+VOLUME 5, ISSUE 5
+17th May 2019
+ 
+Science Advances Table of Contents
+ 
+Research Articles
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f3f0b395043cae16b0dc21f615b6f2f293324e78c1e2555a959fbe0e25b2b925762aaf151e10fb49242e9a5c1fd703663 
+Titi monkeys combine alarm calls to create probabilistic meaning
+
+ Melissa Berthet , Geoffrey Mesbahi, Aude Pajot, Cristiane Casar, Christof Neumann, Klaus Zuberbuhler 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f3f0b395043cae16b0dc21f615b6f2f293324e78c1e2555a959fbe0e25b2b925762aaf151e10fb49242e9a5c1fd703663 
+View 
+
+[10.1126/sciadv.aav3991]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f5b53cd1c896f5fab193b48089ea68a938b3826c307930a44d147fd030031771b90adefddf0d17b807940a074b543e5f7 
+Dental evolutionary rates and its implications for the Neanderthal-modern human divergence
+
+ Aida Gomez-Robles 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f5b53cd1c896f5fab193b48089ea68a938b3826c307930a44d147fd030031771b90adefddf0d17b807940a074b543e5f7 
+View 
+
+[10.1126/sciadv.aaw1268]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f53e2f88e3d66f9a100cd014d7c57dfc8373af359918243b08215e1fea53c8c211d25b73da23093b47acb9546f758a3af 
+Loss of PRC1 activity in different stem cell compartments activates a common transcriptional program with cell type-dependent outcomes
+
+ Silvia Pivetti , Daniel Fernandez-Perez, Alessandro D'Ambrosio, Caterina Maria Barbieri, Daria Manganaro, Alessandra Rossi, Laura Barnabei, Marika Zanotti, Andrea Scelfo, Fulvio Chiacchiera, Diego Pasini 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f53e2f88e3d66f9a100cd014d7c57dfc8373af359918243b08215e1fea53c8c211d25b73da23093b47acb9546f758a3af 
+View 
+
+[10.1126/sciadv.aav1594]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1b7b34f4be2c652bce1c6dc85ae693592813ef128ac1823b0cb3453a450f22e9cedd342f6daadce86017e8db4af6a11b 
+ALBA protein complex reads genic R-loops to maintain genome stability in Arabidopsis
+
+ Wei Yuan , Jincong Zhou, Jinjin Tong, Wanqing Zhuo, Lishuan Wang, Yan Li, Qianwen Sun, Weiqiang Qian 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1b7b34f4be2c652bce1c6dc85ae693592813ef128ac1823b0cb3453a450f22e9cedd342f6daadce86017e8db4af6a11b 
+View 
+
+[10.1126/sciadv.aav9040]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f430ffaa1c4066aba8b95d83500aed498cce0b9e014d02002195bbe5d6454be1140152b51ef34deeb496cf24215dba820 
+Macrophage centripetal migration drives spontaneous healing process after spinal cord injury
+
+ Kazu Kobayakawa , Yasuyuki Ohkawa, Shingo Yoshizaki, Tetsuya Tamaru, Takeyuki Saito, Ken Kijima, Kazuya Yokota, Masamitsu Hara, Kensuke Kubota, Yoshihiro Matsumoto, Katsumi Harimaya, Keiko Ozato, Takahiro Masuda, Makoto Tsuda, Tomohiko Tamura, Kazuhide Inoue, V. Reggie Edgerton, Yukihide Iwamoto, Yasuharu Nakashima, Seiji Okada 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f430ffaa1c4066aba8b95d83500aed498cce0b9e014d02002195bbe5d6454be1140152b51ef34deeb496cf24215dba820 
+View 
+
+[10.1126/sciadv.aav5086]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f5eea344acc1e06d210203de5d6651fd672cd981cd4ccf5a02f6c681a3d09329d7bdad67fa53238d1d9cf605374a384da 
+Deformation of an inner valence molecular orbital in ethanol by an intense laser field
+
+ Hiroshi Akagi , Tomohito Otobe, Ryuji Itakura 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f5eea344acc1e06d210203de5d6651fd672cd981cd4ccf5a02f6c681a3d09329d7bdad67fa53238d1d9cf605374a384da 
+View 
+
+[10.1126/sciadv.aaw1885]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fea1562a2e210c3d9a156719e2731540d05f5941eb3ae0ed10f5f96e157b9b35b2ef53aaad79d41e65cd16f591b9b7432 
+PES1 is a critical component of telomerase assembly and regulates cellular senescence
+
+ Long Cheng , Bin Yuan, Sunyang Ying, Chang Niu, Hongxu Mai, Xin Guan, Xiaohui Yang, Yan Teng, Jing Lin, Junjian Huang, Rui Jin, Jun Wu, Bo Liu, Shaohong Chang, Enqun Wang, Chunxia Zhang, Ning Hou, Xuan Cheng, Danyang Xu, Xiao Yang, Shan Gao, Qinong Ye 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fea1562a2e210c3d9a156719e2731540d05f5941eb3ae0ed10f5f96e157b9b35b2ef53aaad79d41e65cd16f591b9b7432 
+View 
+
+[10.1126/sciadv.aav1090]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fcc9dc1ed6a19df12ea6c203787046acff268af0d4cb377ffce86caaae47259ef69949a3c417095cc83c629dc4f4e79d5 
+On-demand photonic entanglement synthesizer
+
+ Shuntaro Takeda , Kan Takase, Akira Furusawa 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fcc9dc1ed6a19df12ea6c203787046acff268af0d4cb377ffce86caaae47259ef69949a3c417095cc83c629dc4f4e79d5 
+View 
+
+[10.1126/sciadv.aaw4530]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1835710eb43212f19865a57db0ea95fef55fb95b2b36d8289a8f9243d4f7fa8c0163b7bdfdb4872c316f196027a9fa22 
+Identification of variable lymphocyte receptors that can target therapeutics to pathologically exposed brain extracellular matrix
+
+ Benjamin J. Umlauf , Paul A. Clark, Jason M. Lajoie, Julia V. Georgieva, Samantha Bremner, Brantley R. Herrin, John S. Kuo, Eric V. Shusta 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1835710eb43212f19865a57db0ea95fef55fb95b2b36d8289a8f9243d4f7fa8c0163b7bdfdb4872c316f196027a9fa22 
+View 
+
+[10.1126/sciadv.aau4245]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f3a14a5ad749a59c3f159ae1565c079ed45953ea76dcf0de282a5d0db5df78fdd3e9730979e05c3b2ad6df74f1360058a 
+Speaker-independent auditory attention decoding without access to clean speech sources
+
+ Cong Han , James O'Sullivan, Yi Luo, Jose Herrero, Ashesh D. Mehta, Nima Mesgarani 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f3a14a5ad749a59c3f159ae1565c079ed45953ea76dcf0de282a5d0db5df78fdd3e9730979e05c3b2ad6df74f1360058a 
+View 
+
+[10.1126/sciadv.aav6134]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fba34c418844a54b9dfb5942e00d3aee62299bd53756cfd36d3f58bc756f559414952da0a97a5e169b3dc655144215caf 
+Layer-specific activation of sensory input and predictive feedback in the human primary somatosensory cortex
+
+ Yinghua Yu , Laurentius Huber, Jiajia Yang, David C. Jangraw, Daniel A. Handwerker, Peter J. Molfese, Gang Chen, Yoshimichi Ejima, Jinglong Wu, Peter A. Bandettini 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fba34c418844a54b9dfb5942e00d3aee62299bd53756cfd36d3f58bc756f559414952da0a97a5e169b3dc655144215caf 
+View 
+
+[10.1126/sciadv.aav9053]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f40806d98fa16f122ebfc48a68cb8e42d0bc8968cb7700dcebdc506bb813627e17aed9d878537bada86ee36343c2f9c1e 
+Selective trapping of hexagonally warped topological surface states in a triangular quantum corral
+
+ Mu Chen , Ye-Ping Jiang, Junping Peng, Huimin Zhang, Cui-Zu Chang, Xiao Feng, Zhenguo Fu, Fawei Zheng, Ping Zhang, Lili Wang, Ke He, Xu-Cun Ma, Qi-Kun Xue 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f40806d98fa16f122ebfc48a68cb8e42d0bc8968cb7700dcebdc506bb813627e17aed9d878537bada86ee36343c2f9c1e 
+View 
+
+[10.1126/sciadv.aaw3988]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9feac9780e19931b4739fa52b447b0dfebb9873437f309f37b0f99938cb2776c691e7b14c17a59aefd1e54e55f6c55785b 
+Mutualistic interactions reshuffle the effects of climate change on plants across the tree of life
+
+ Jordi Bascompte , Maria B. Garcia, Raul Ortega, Enrico L. Rezende, Samuel Pironon 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9feac9780e19931b4739fa52b447b0dfebb9873437f309f37b0f99938cb2776c691e7b14c17a59aefd1e54e55f6c55785b 
+View 
+
+[10.1126/sciadv.aav2539]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f49b523e13241155c6dcd8557aa214c7cfdfae20fe65f16ded467481ff21bea633ebd92a3be810b117c4c1685f62ec6c0 
+Unusual packing of soft-shelled nanocubes
+
+ Fang Lu , Thi Vo, Yugang Zhang, Alex Frenkel, Kevin G. Yager, Sanat Kumar, Oleg Gang 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f49b523e13241155c6dcd8557aa214c7cfdfae20fe65f16ded467481ff21bea633ebd92a3be810b117c4c1685f62ec6c0 
+View 
+
+[10.1126/sciadv.aaw2399]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f4b659437d28c981a02a4f50bd5405ebadd12845891436e07a8be4ca6f1efa098325af3d119ab235ba2d0d21a25f30adf 
+Engineering single-atom dynamics with electron irradiation
+
+ Cong Su , Mukesh Tripathi, Qing-Bo Yan, Zegao Wang, Zihan Zhang, Christoph Hofer, Haozhe Wang, Leonardo Basile, Gang Su, Mingdong Dong, Jannik C. Meyer, Jani Kotakoski, Jing Kong, Juan-Carlos Idrobo, Toma Susi, Ju Li 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f4b659437d28c981a02a4f50bd5405ebadd12845891436e07a8be4ca6f1efa098325af3d119ab235ba2d0d21a25f30adf 
+View 
+
+[10.1126/sciadv.aav2252]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fc6f0aed97c7333f324be7553980cf27ee51edb1850e45c576b6348a8ec95e233b6a9fc539d66395a68cc84879cdcc6ac 
+Wearable thermoelectrics for personalized thermoregulation
+
+ Sahngki Hong , Yue Gu, Joon Kyo Seo, Joseph Wang, Ping Liu, Y. Shirley Meng, Sheng Xu, Renkun Chen 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fc6f0aed97c7333f324be7553980cf27ee51edb1850e45c576b6348a8ec95e233b6a9fc539d66395a68cc84879cdcc6ac 
+View 
+
+[10.1126/sciadv.aaw0536]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f39691db010364d8090dfabd2d944c1c09f86a5a2551c47484d48643eaffe242a223d6bba3c50d272848ec1c0ff14437e 
+Correlation between scale-invariant normal-state resistivity and superconductivity in an electron-doped cuprate
+
+ Tarapada Sarkar , P. R. Mandal, N. R. Poniatowski, M. K. Chan, Richard L. Greene 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f39691db010364d8090dfabd2d944c1c09f86a5a2551c47484d48643eaffe242a223d6bba3c50d272848ec1c0ff14437e 
+View 
+
+[10.1126/sciadv.aav6753]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fc5a1f9317db50b96710fdc755d6bb9ae371096c7033b771f74cfddffc150e245ff9e3ef0c081c68d541bde4f277d2867 
+Global pattern of phytoplankton diversity driven by temperature and environmental variability
+
+ Damiano Righetti , Meike Vogt, Nicolas Gruber, Achilleas Psomas, Niklaus E. Zimmermann 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fc5a1f9317db50b96710fdc755d6bb9ae371096c7033b771f74cfddffc150e245ff9e3ef0c081c68d541bde4f277d2867 
+View 
+
+[10.1126/sciadv.aau6253]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f09137c8e7c73dd12ae747e970d8ed15326724ef89a5c0be72d02ff57e491b84a1781db6a153cc4a3799de4f4d881e5d6 
+Multiplexed single-cell RNA-seq via transient barcoding for simultaneous expression profiling of various drug perturbations
+
+ Dongju Shin , Wookjae Lee, Ji Hyun Lee, Duhee Bang 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f09137c8e7c73dd12ae747e970d8ed15326724ef89a5c0be72d02ff57e491b84a1781db6a153cc4a3799de4f4d881e5d6 
+View 
+
+[10.1126/sciadv.aav2249]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f26de8c24dd30520e6acfc11f50c06eab107cccfcadfa91e2f0e089055e5b76becd14e3896585722990f080fa0c31c811 
+The structure of musical harmony as an ordered phase of sound: A statistical mechanics approach to music theory
+
+ Jesse Berezovsky 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f26de8c24dd30520e6acfc11f50c06eab107cccfcadfa91e2f0e089055e5b76becd14e3896585722990f080fa0c31c811 
+View 
+
+[10.1126/sciadv.aav8490]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1b9414fb82bd417737850c7b7ea95d7c4bc044233d2554b58a981aff2f7351e622866873823c764bcfbf2069c000f9f5 
+Luminescence of coprecipitated titanium white pigments: Implications for dating modern art
+
+ Corina E. Rogge , Julie Arslanoglu 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1b9414fb82bd417737850c7b7ea95d7c4bc044233d2554b58a981aff2f7351e622866873823c764bcfbf2069c000f9f5 
+View 
+
+[10.1126/sciadv.aav0679]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fc29e5ba4f6aea17fed595718eb7c4316fc65bd2b21273c0a87d98e94d71382eba07ac00e1f7fada254622a7be880fc7a 
+Precise closure of single blood vessels via multiphoton absorption-based photothermolysis
+
+ Yimei Huang , Zhenguo Wu, Harvey Lui, Jianhua Zhao, Shusen Xie, Haishan Zeng 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fc29e5ba4f6aea17fed595718eb7c4316fc65bd2b21273c0a87d98e94d71382eba07ac00e1f7fada254622a7be880fc7a 
+View 
+
+[10.1126/sciadv.aan9388]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fe09f115696e26daff9243fe04481a4731e8ca0c6e8679d2cd94829ceb2d654ca2490c4a46416235d909497d7fbfd239f 
+Angle-multiplexed all-dielectric metasurfaces for broadband molecular fingerprint retrieval
+
+ Aleksandrs Leitis , Andreas Tittl, Mingkai Liu, Bang Hyun Lee, Man Bock Gu, Yuri S. Kivshar, Hatice Altug 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fe09f115696e26daff9243fe04481a4731e8ca0c6e8679d2cd94829ceb2d654ca2490c4a46416235d909497d7fbfd239f 
+View 
+
+[10.1126/sciadv.aaw2871]
+ 
+ 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9ff4f2b5d66a1e769c3e9dfa39ed01ba556494cec52f9401777aa738725449ab8dac0aed1eba49f2c25cda8023add5b792 
+Lysostaphin and BMP-2 co-delivery reduces S. aureus infection and regenerates critical-sized segmental bone defects
+
+ Christopher T. Johnson , Mary Caitlin P. Sok, Karen E. Martin, Pranav P. Kalelkar, Jeremy D. Caplin, Edward A. Botchwey, Andres J. Garcia 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9ff4f2b5d66a1e769c3e9dfa39ed01ba556494cec52f9401777aa738725449ab8dac0aed1eba49f2c25cda8023add5b792 
+View 
+
+[10.1126/sciadv.aaw1228]
+ 
+ 
+Journals
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f142a55b4f58360d6e33b4d051fe1ffc1a3652bf68a00e6b3dcdba45197ce580b6276b4a342c08744fc96156bc91923ae 
+Science 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fcd2d604af3d0c9c79189fc0e1ed7e7152b9256d00436c5a2d16227b7fc5729d146e1c51ddf0397a3a56de77abe57b5e8 
+Science Advances 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f2e587f8e07d33165e0eaf256627dd81fd68105b9bbcbf8ab0b75bb85fc45277cb181eda8599484966b42e908c455f71f 
+Science Signaling 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9facd138c32749149cf58eba90f242e85c4160353e32f7d9ff5ac4fecee9655ecfd6fe1fb15ced9315e90dfffd5fb7b545 
+Science Translational Medicine 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f75ac9bb4f1cbbef5e15f9903d77bf7690cb96b2a14ffb9429eca6bf47bee507dfe7037cb2fce848ce27d5903d4f1a0c4 
+Science Immunology 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f959b0811e679b303d634e089521b171f41ad66d969c0d7c2ab88fb2961a3f66cff0715e1dc94b1159ca5387377d6b2a2 
+Science Robotics Useful links
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f5ec8eeec4708b3f7e65e3a0ac10af91ac1aeaa5f18f0c5900df0e26206e7ab4fcda6e9f3634afb3bd12590422b17b1b8 
+Home 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1f4de255faa0a89bc72222dd98f6a04bc5c6e561fa3779b18a25b83bf0ade740ed5f63a36f94f506c01f8178e2163cd1 
+Journals 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f69fd01188006b047a43ce8b21fffc9b2dd6065b95ce9c02969f20367bb88f90cf8d54fd8df4146748c2ef0e130e2d248 
+Topics 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f12001068161a5c6172ee30276dcbf691c933ec90818cbace2b8bae08fe3b975c4efb22f9935a3ad34e416a1817099712 
+Careers Help
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f4ba75e27cd33e03f91021dd0b3c5f6a518281b10ce28a43c484b59db3c1e8d754757066758194d01dbff7affe6ed0180 
+Access & subscriptions 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f1d6a7a5e2d36419e65ac7bed076d48e27f98724a30ae73edc089271e9168f5c236cba193f520f0eddd6344ff9ddc28c9 
+Reprints & permissions 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f505f1efcb8c05b412b1ed30a1f4abfe3dc73899aa55e0836fae629fc8cd0d52a2f746a4e3a2cb3f4015de96efbecfa81 
+Contact us 
+
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9f026e235f034682e8bbcc90404165d938b348cb85a8cda8db6da9e46663d3c4a8819eb490c820d0f64d99b7cb702cf127 
+Manage Your E-mail Subscription Preferences | Unsubscribe 
+
+ This email was sent on behalf of Science Advances TOC to: {email}
+ 
+ AAAS / Science  |  1200 New York Avenue NW  |  Washington, DC 20005  |  U.S.A. 
+ 
+ +1 202-326-6417  |  
+mailto:reply@aaas.sciencepubs.org 
+reply@aaas.sciencepubs.org  | 
+http://click.aaas.sciencepubs.org/?qs=5ada5425a12ebe9fac53efe6f31bcd3496c960e47b5d995ea7b2ec1c0d7bc71a8663c13791979afc335e04ca9cc0b51b2bf745a24420c076 
+Privacy Policy 
+
+  
+Brought to you by Jackson Immuno Research
+
+http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359abce9e3e2e7f12f653b9ada71b139e8a4892d0b66d56a9748f47f9a2cae7864c5b2c366d94a5119347f43b541cfea4206 
+
+ 
+
+
+--tLEaIIYcPCdO=_?:
+Content-Type: text/html;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+
+<html xmlns="http://www.w3.org/1999/xhtml"  xmlns:v="urn:schemas-microsoft-com:vml"  xmlns:o="urn:schemas-microsoft-com:office:office">
+<head>
+<!--[if gte mso 9]><xml>   <o:OfficeDocumentSettings>     <o:AllowPNG/>     <o:PixelsPerInch>96</o:PixelsPerInch>   </o:OfficeDocumentSettings> </xml><![endif]-->
+<title>Science/AAAS</title>
+<style type="text/css">
+ 
+table#tab { width: 600px; }
+img.cover { width: 300px; }
+table.block a { color: #cc2016; }
+table.block img { width: auto; }
+ul { margin: 0px; padding: 0px; }
+
+@media only screen and (max-width: 599px) {
+ table#tab { width: 100%!important; min-width: 100%!important; }
+ img.cover { width: 100%; }
+ table.block img { max-width: 85%; }
+}
+
+</style>
+</head>
+<body style="background: #bbbbbb; color: #333333; font-family: helvetica, arial, sans-serif; font-size: 12px;">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="center">&nbsp;<br>
+<table id="tab" width="600" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td align="left">
+
+<table class="block" bgcolor="#132936" width="100%" style="width:100%!important" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr>
+ <td>
+  <table width="100%" style="width:100%!important" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+   <td align="center">
+    &nbsp;<br><span style="color: #ffffff; font-family: helvetica, arial, sans-serif; font-size: 12px;"><b>Brought to you by Jackson Immuno Research</b></span>
+    <br /><br /><a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab2dd6e06aad150fd61912c5d4bafbc7e87ee7da75d0d7e144166a6bcc2646bc944e3ef432dde9b7a4992bb99373a77b1"><img src="http://sciencestatic.aws.aaas.org/email/1557861590.jpg" border="0" alt="" /></a>   </td>
+  </tr>
+  </table>
+  <table width="100%" style="width:100%!important" cellpadding="20" cellspacing="0" border="0">
+  <tr>
+   <td align="left">
+    <span style="color: #ffffff; font-family: helvetica, arial, sans-serif; font-size: 12px;"></span>
+   </td>
+  </tr>
+  </table>
+ </td>
+</tr></tbody>
+</table>
+
+<!---------- cover {start} ---------->
+<table bgcolor="#111111" width="100%" style="width:100%!important; min-width: 100%!important;" cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+ <td align="center" style="font-family: helvetica, arial, sans-serif; font-size: 12px;">&nbsp;<br>
+ <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a41e23dd3e1215834cd0292d354dcaf65edcda4614cbd3897331a9d26f8b44c51eb4668fb51067b2d161465203f84c313"><img src="http://sciencestatic.aws.aaas.org/email/fb_blk_icon.gif" border="0" alt="" /></a> &nbsp; <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359af9ddef9f1548d47487501e937267d07d72440e1fdd02e330f846a8c945f3858ec1dab163a3045ad15408a7363e2c1ef2"><img src="http://sciencestatic.aws.aaas.org/email/twitter_blk_icon.gif" border="0" alt="" /></a><br>&nbsp;<br><img src="http://sciencestatic.aws.aaas.org/email/advances-cover.gif" class="cover" width="300" border="0" alt=""><br><br>
+ <span style="color: #FFFFFF;">VOLUME 5, ISSUE 5</span><br>
+ <span style="color: #cc2016;"><b>17th May 2019</b></span>
+ <br>&nbsp;</td>
+</tr></tbody></table>
+<!---------- cover {end} ---------->
+
+<!---------- strapline {start} ---------->
+<table bgcolor="#cc2016" width="100%" style="width:100%!important; min-width: 100%!important;" cellpadding="5" cellspacing="0" border="0"><tbody><tr><td align="center">
+
+<div style="color: #FFFFFF; font-family: helvetica, arial, sans-serif; font-size: 16px;">
+<strong>Science Advances Table of Contents</strong>
+</div>
+
+</td></tr></tbody></table>
+<!---------- strapline {end} ---------->
+
+
+
+<!---------- content {start} ---------->
+<table bgcolor="#ffffff" width="100%" style="width:100%!important; min-width: 100%!important;" cellpadding="20" cellspacing="0" border="0"><tbody><tr><td align="left"><div style="color: #cc2016; font-family: helvetica, arial, sans-serif; font-size: 14px; text-transform: uppercase;">&nbsp;<br><b>Research Articles</b></div>
+
+
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a9d36550c12b4e045d46c5d0539c1b34ff0b42dfd4a9b9e844ee964d636f324be03f4f9a0fc705334fce39be7e0da2537" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Titi monkeys combine alarm calls to create probabilistic meaning</a><br>
+    <i>
+  M&#233;lissa Berthet  , Geoffrey Mesbahi, Aude Pajot, Cristiane C&#228;sar, Christof Neumann, Klaus Zuberb&#252;hler  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a9d36550c12b4e045d46c5d0539c1b34ff0b42dfd4a9b9e844ee964d636f324be03f4f9a0fc705334fce39be7e0da2537" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav3991]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a52656c197728593f878233d41bc8e4fa8d74bfabde69a5fce5dc03a0b3688096b6aad620b2cea8dfbb61b2417d167f3c" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Dental evolutionary rates and its implications for the Neanderthal-modern human divergence</a><br>
+    <i>
+  Aida G&#243;mez-Robles    </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a52656c197728593f878233d41bc8e4fa8d74bfabde69a5fce5dc03a0b3688096b6aad620b2cea8dfbb61b2417d167f3c" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw1268]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a8c9196c8edd12cebac9a2e4531e83e3575824f80ad9b3931ba2e7b07e701f1fcd0d15414f47ea4e7d78407a5d1cbc869" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Loss of PRC1 activity in different stem cell compartments activates a common transcriptional program with cell type-dependent outcomes</a><br>
+    <i>
+  Silvia Pivetti  , Daniel Fernandez-Perez, Alessandro D'Ambrosio, Caterina Maria Barbieri, Daria Manganaro, Alessandra Rossi, Laura Barnabei, Marika Zanotti, Andrea Scelfo, Fulvio Chiacchiera, Diego Pasini  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a8c9196c8edd12cebac9a2e4531e83e3575824f80ad9b3931ba2e7b07e701f1fcd0d15414f47ea4e7d78407a5d1cbc869" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav1594]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a4114d7cf7855cdb94fd5f22986603c6f0a8cfc91346f0d5b1a0a6b84e115c79f83a9870155366bd69b9de0a595e2f283" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->ALBA protein complex reads genic R-loops to maintain genome stability in <em>Arabidopsis</em></a><br>
+    <i>
+  Wei Yuan  , Jincong Zhou, Jinjin Tong, Wanqing Zhuo, Lishuan Wang, Yan Li, Qianwen Sun, Weiqiang Qian  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a4114d7cf7855cdb94fd5f22986603c6f0a8cfc91346f0d5b1a0a6b84e115c79f83a9870155366bd69b9de0a595e2f283" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav9040]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a83c36dd0727c5d2657892f07f64e1527347c564f7808781b2de05b18392676b7401c49ff7260f2c78957b5234cac596e" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Macrophage centripetal migration drives spontaneous healing process after spinal cord injury</a><br>
+    <i>
+  Kazu Kobayakawa  , Yasuyuki Ohkawa, Shingo Yoshizaki, Tetsuya Tamaru, Takeyuki Saito, Ken Kijima, Kazuya Yokota, Masamitsu Hara, Kensuke Kubota, Yoshihiro Matsumoto, Katsumi Harimaya, Keiko Ozato, Takahiro Masuda, Makoto Tsuda, Tomohiko Tamura, Kazuhide Inoue, V. Reggie Edgerton, Yukihide Iwamoto, Yasuharu Nakashima, Seiji Okada  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a83c36dd0727c5d2657892f07f64e1527347c564f7808781b2de05b18392676b7401c49ff7260f2c78957b5234cac596e" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav5086]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a90b86544491c119736401dcef479ab5823aecccda652385f038b7bd3694c89585343b3f3a6f9ee2405dc93cc13707ae7" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Deformation of an inner valence molecular orbital in ethanol by an intense laser field</a><br>
+    <i>
+  Hiroshi Akagi  , Tomohito Otobe, Ryuji Itakura  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a90b86544491c119736401dcef479ab5823aecccda652385f038b7bd3694c89585343b3f3a6f9ee2405dc93cc13707ae7" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw1885]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a5fa7c77647ec1f5e11c4d608001dd93611a1045610ebd9c6262a24f3905b856eade3ffa32bfe646e706c7d448ef061e5" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->PES1 is a critical component of telomerase assembly and regulates cellular senescence</a><br>
+    <i>
+  Long Cheng  , Bin Yuan, Sunyang Ying, Chang Niu, Hongxu Mai, Xin Guan, Xiaohui Yang, Yan Teng, Jing Lin, Junjian Huang, Rui Jin, Jun Wu, Bo Liu, Shaohong Chang, Enqun Wang, Chunxia Zhang, Ning Hou, Xuan Cheng, Danyang Xu, Xiao Yang, Shan Gao, Qinong Ye  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a5fa7c77647ec1f5e11c4d608001dd93611a1045610ebd9c6262a24f3905b856eade3ffa32bfe646e706c7d448ef061e5" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav1090]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab13c94a1c7fe22a15ddbf4407adb2dd97ddaffd70536aa5cd55c23bf111af1f35e547b8598b4141897106d3b289b6ea9" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->On-demand photonic entanglement synthesizer</a><br>
+    <i>
+  Shuntaro Takeda  , Kan Takase, Akira Furusawa  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab13c94a1c7fe22a15ddbf4407adb2dd97ddaffd70536aa5cd55c23bf111af1f35e547b8598b4141897106d3b289b6ea9" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw4530]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a545e7940ece31d9c79e915d5b0dd788687e6a2dbfbb26b02a8c83d33c690b42046c5c59941d55f3344e5f5a7d277c675" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Identification of variable lymphocyte receptors that can target therapeutics to pathologically exposed brain extracellular matrix</a><br>
+    <i>
+  Benjamin J. Umlauf  , Paul A. Clark, Jason M. Lajoie, Julia V. Georgieva, Samantha Bremner, Brantley R. Herrin, John S. Kuo, Eric V. Shusta  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a545e7940ece31d9c79e915d5b0dd788687e6a2dbfbb26b02a8c83d33c690b42046c5c59941d55f3344e5f5a7d277c675" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aau4245]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a7b4cd894239a482df9d0cf69f8e038caae79a94462000e136c93da3c83fa2548abcf3d831b53876e50c7d6eafcd8e059" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Speaker-independent auditory attention decoding without access to clean speech sources</a><br>
+    <i>
+  Cong Han  , James O'Sullivan, Yi Luo, Jose Herrero, Ashesh D. Mehta, Nima Mesgarani  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a7b4cd894239a482df9d0cf69f8e038caae79a94462000e136c93da3c83fa2548abcf3d831b53876e50c7d6eafcd8e059" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav6134]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab4e7181b1ee0882c61322035bed0359dd32cacbcecdb27f078223b211bb08c524aa03c123c5304f12d63753a78470899" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Layer-specific activation of sensory input and predictive feedback in the human primary somatosensory cortex</a><br>
+    <i>
+  Yinghua Yu  , Laurentius Huber, Jiajia Yang, David C. Jangraw, Daniel A. Handwerker, Peter J. Molfese, Gang Chen, Yoshimichi Ejima, Jinglong Wu, Peter A. Bandettini  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab4e7181b1ee0882c61322035bed0359dd32cacbcecdb27f078223b211bb08c524aa03c123c5304f12d63753a78470899" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav9053]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ac5493baeff9efbdb528b05d92d9c97c7824c174b6cdaf9e06ed866e996f4dc8964bb68b797421ea5869327a263939b45" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Selective trapping of hexagonally warped topological surface states in a triangular quantum corral</a><br>
+    <i>
+  Mu Chen  , Ye-Ping Jiang, Junping Peng, Huimin Zhang, Cui-Zu Chang, Xiao Feng, Zhenguo Fu, Fawei Zheng, Ping Zhang, Lili Wang, Ke He, Xu-Cun Ma, Qi-Kun Xue  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ac5493baeff9efbdb528b05d92d9c97c7824c174b6cdaf9e06ed866e996f4dc8964bb68b797421ea5869327a263939b45" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw3988]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a40dc22a2f477ed255b6e27223ff92ff8748bf30e773d699d5043e52952ce1daa644c30cf3e1355decd0a86e056ea326f" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Mutualistic interactions reshuffle the effects of climate change on plants across the tree of life</a><br>
+    <i>
+  Jordi Bascompte  , Mar&#237;a B. Garc&#237;a, Ra&#250;l Ortega, Enrico L. Rezende, Samuel Pironon  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a40dc22a2f477ed255b6e27223ff92ff8748bf30e773d699d5043e52952ce1daa644c30cf3e1355decd0a86e056ea326f" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav2539]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a510c61c4fb6657aac0948aaf0affa27b047c77c06818312c951863fd0ee659e95799233e2fb4aee96843d0d4c5fbee54" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Unusual packing of soft-shelled nanocubes</a><br>
+    <i>
+  Fang Lu  , Thi Vo, Yugang Zhang, Alex Frenkel, Kevin G. Yager, Sanat Kumar, Oleg Gang  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a510c61c4fb6657aac0948aaf0affa27b047c77c06818312c951863fd0ee659e95799233e2fb4aee96843d0d4c5fbee54" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw2399]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359adf5703d5f9f2f3435a5cb2afd1473d71a8ed99fa94b5294fe8d21a5a1fb1332747994365c7e913147cf645a41c44f3f1" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Engineering single-atom dynamics with electron irradiation</a><br>
+    <i>
+  Cong Su  , Mukesh Tripathi, Qing-Bo Yan, Zegao Wang, Zihan Zhang, Christoph Hofer, Haozhe Wang, Leonardo Basile, Gang Su, Mingdong Dong, Jannik C. Meyer, Jani Kotakoski, Jing Kong, Juan-Carlos Idrobo, Toma Susi, Ju Li  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359adf5703d5f9f2f3435a5cb2afd1473d71a8ed99fa94b5294fe8d21a5a1fb1332747994365c7e913147cf645a41c44f3f1" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav2252]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359adf80cfc165aa4139223ac8db6eaa10c1b2555cfa75b2d41f296d3c69275c794add330db3a2da7ceb96fc5a7d9d6725e1" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Wearable thermoelectrics for personalized thermoregulation</a><br>
+    <i>
+  Sahngki Hong  , Yue Gu, Joon Kyo Seo, Joseph Wang, Ping Liu, Y. Shirley Meng, Sheng Xu, Renkun Chen  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359adf80cfc165aa4139223ac8db6eaa10c1b2555cfa75b2d41f296d3c69275c794add330db3a2da7ceb96fc5a7d9d6725e1" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw0536]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359afee4d699e26d7ffce04540c6da3ae10defa8baceafb8256575884a60dd05104e05f2f94c855cd47c6193cd4ca1663496" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Correlation between scale-invariant normal-state resistivity and superconductivity in an electron-doped cuprate</a><br>
+    <i>
+  Tarapada Sarkar  , P. R. Mandal, N. R. Poniatowski, M. K. Chan, Richard L. Greene  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359afee4d699e26d7ffce04540c6da3ae10defa8baceafb8256575884a60dd05104e05f2f94c855cd47c6193cd4ca1663496" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav6753]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a74876f6f8e8940911847332c63c0351795cf74126c93b3b19936fa427a475e58cb98ddfd3fceea55b9d8327eb67961d8" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Global pattern of phytoplankton diversity driven by temperature and environmental variability</a><br>
+    <i>
+  Damiano Righetti  , Meike Vogt, Nicolas Gruber, Achilleas Psomas, Niklaus E. Zimmermann  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a74876f6f8e8940911847332c63c0351795cf74126c93b3b19936fa427a475e58cb98ddfd3fceea55b9d8327eb67961d8" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aau6253]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a1153aae7ac3368e206c6f7304dfa9b31252fa8fc8bf96f0b2f21381ccab5dc0769bac28ceb5911937182dd0b50dcabb5" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Multiplexed single-cell RNA-seq via transient barcoding for simultaneous expression profiling of various drug perturbations</a><br>
+    <i>
+  Dongju Shin  , Wookjae Lee, Ji Hyun Lee, Duhee Bang  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a1153aae7ac3368e206c6f7304dfa9b31252fa8fc8bf96f0b2f21381ccab5dc0769bac28ceb5911937182dd0b50dcabb5" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav2249]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a460973d787da89280070fd3b2d4ed8d3a5c77bc39789a305407ff529243eff4196ab1e8a49120360d217332c4b76f87b" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->The structure of musical harmony as an ordered phase of sound: A statistical mechanics approach to music theory</a><br>
+    <i>
+  Jesse Berezovsky    </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a460973d787da89280070fd3b2d4ed8d3a5c77bc39789a305407ff529243eff4196ab1e8a49120360d217332c4b76f87b" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav8490]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ad3efcb4849e4478f56674155263ef167cffde5f8340999247d2b75d579467d5e3b1846b4772657c9528f2cfd71e47323" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Luminescence of coprecipitated titanium white pigments: Implications for dating modern art</a><br>
+    <i>
+  Corina E. Rogge  , Julie Arslanoglu  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ad3efcb4849e4478f56674155263ef167cffde5f8340999247d2b75d579467d5e3b1846b4772657c9528f2cfd71e47323" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aav0679]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359af5160545fc9900d718bde4dac10a3497be885b05ae219ce73e6ac0f0562156ec3f1d53e07bea2c3ac6c8236d2f4a03cf" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-15 -->Precise closure of single blood vessels via multiphoton absorption-based photothermolysis</a><br>
+    <i>
+  Yimei Huang  , Zhenguo Wu, Harvey Lui, Jianhua Zhao, Shusen Xie, Haishan Zeng  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359af5160545fc9900d718bde4dac10a3497be885b05ae219ce73e6ac0f0562156ec3f1d53e07bea2c3ac6c8236d2f4a03cf" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aan9388]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a56f1211171d5e3de1ea428cccaf48b74c8de7dca90d1f235046f85f075ef3754efaf8a1244d47c92d0cb36fdce023dbf" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Angle-multiplexed all-dielectric metasurfaces for broadband molecular fingerprint retrieval</a><br>
+    <i>
+  Aleksandrs Leitis  , Andreas Tittl, Mingkai Liu, Bang Hyun Lee, Man Bock Gu, Yuri S. Kivshar, Hatice Altug  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a56f1211171d5e3de1ea428cccaf48b74c8de7dca90d1f235046f85f075ef3754efaf8a1244d47c92d0cb36fdce023dbf" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw2871]</span><br>&nbsp;
+  </div>
+
+    
+
+  <div style="font-size: 12px; font-family: helvetica, arial, sans-serif; border-bottom: 1px solid #DDDDDD;">
+  <span style="color: #999999; text-transform: uppercase;"></span><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a696089a7fddbceef13a587e7f3e21ae31d92becb96918a1f7ff818491d8134d1a4390c1c5121bf5b4aa949d50525579c" style="color: #37588A; font-size: 26px; text-decoration: none;"><!-- 2019-05-17 -->Lysostaphin and BMP-2 co-delivery reduces <em>S. aureus</em> infection and regenerates critical-sized segmental bone defects</a><br>
+    <i>
+  Christopher T. Johnson  , Mary Caitlin P. Sok, Karen E. Martin, Pranav P. Kalelkar, Jeremy D. Caplin, Edward A. Botchwey, Andr&#233;s J. Garc&#237;a  </i>
+  <br><br>  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a696089a7fddbceef13a587e7f3e21ae31d92becb96918a1f7ff818491d8134d1a4390c1c5121bf5b4aa949d50525579c" style="color: #37588A; text-decoration: none; font-size: 12px;">View</a><br><br>
+  <span style="color: #999999;">[10.1126/sciadv.aaw1228]</span><br>&nbsp;
+  </div>
+
+  
+</td></tr></tbody></table>
+<!---------- content {end} ---------->
+
+
+<!---------- footer {start} ---------->
+
+<table bgcolor="#132936" width="100%" style="width:100%!important" cellpadding="20" cellspacing="0" border="0"><tbody><tr><td width="33%" align="left" valign="top">
+
+ <div style="font-family: helvetica, arial, sans-serif; font-size: 12px;">
+  <b><span style="color: #FFFFFF; font-size: 14px;">Journals</span></b><br><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a138585809e4f97798cf9f540d2e70888d9edbd28746680548a2f3896c18d08fa1c3d6514e417737fcc4ae02308a38aaa" style="color: #FFFFFF; text-decoration: none;">Science</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a28c9cd8d8c2528efd069481eb43ade3e03414ee81d72af9564be7107c7c48802a66c02c9bb1d6c65de914c78a8e9c02a" style="color: #FFFFFF; text-decoration: none;">Science Advances</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a3d0bd08e65cc2f20c7227a276c5340e8f58288ce819b00aebe10321ba5a657996526a7d70f0f5d5e093b0adab02dccb9" style="color: #FFFFFF; text-decoration: none;">Science Signaling</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359aa4a774d167e6effa0e5e6a751959f6bcc4b05d252e075dfd6d92ecb88b790c64ff18b147b037c9d438450f8fc031d5dc" style="color: #FFFFFF; text-decoration: none;">Science Translational Medicine</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab990f1e20daf2aa68f0a5908a06064eff95ba272eaf1ba67cdd16b82d2dbfdd26ce5243ace320ac6738609df4f6af622" style="color: #FFFFFF; text-decoration: none;">Science Immunology</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a027ec62a9803e4a9cba527d47b83732c323fd62333ab532f411133ef74505a1074618924ac215582f19d3aaa9da5202f" style="color: #FFFFFF; text-decoration: none;">Science Robotics</a>
+ </div>
+
+</td><td width="33%" align="left" valign="top">
+
+ <div style="font-family: helvetica, arial, sans-serif; font-size: 12px;">
+  <b><span style="color: #FFFFFF; font-size: 14px;">Useful links</span></b><br><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a029d1c5f7f1696927f3a2bdd0f8ac71b67729d3381d1c51ea0dfb2e0b3edb5110dc52f7a79975be40903786d69ce46e7" style="color: #FFFFFF; text-decoration: none;">Home</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a4c3fb0fe7cfb67fa286d832da26259f965e2d98ce7874c81a8158ae7e75b2adb363a2787d411006901322c0cfab97c4e" style="color: #FFFFFF; text-decoration: none;">Journals</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a1ba13193dfc1ac6efc62cb8c1a6910c9e6162fee4baf628c72cace5f65b3ba1a2eb5acb756b32eafbae6977e6d5407c6" style="color: #FFFFFF; text-decoration: none;">Topics</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359a5b47d1255ba2dc27f28ca9c29880921bf977e992a24c9ba8497bc8ff69c8bb768a03cd41cfa4138f5073168d2554386b" style="color: #FFFFFF; text-decoration: none;">Careers</a>
+ </div>
+
+</td><td width="33%" align="left" valign="top">
+
+ <div style="font-family: helvetica, arial, sans-serif; font-size: 12px;">
+  <b><span style="color: #FFFFFF; font-size: 14px;">Help</span></b><br><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359aa34b4f5d34859826b4d68876a492495e6bbf42ad79413ea35054f96353701612bebfb6d6dbfee5dd45ba4a821e40839c" style="color: #FFFFFF; text-decoration: none;">Access &amp; subscriptions</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab803a3cd38563c5372385cf9c7462045f2810dd2b5023ea7e344a84f8b6525f9048eb4bfd55ce3c8888af26ef3c81086" style="color: #FFFFFF; text-decoration: none;">Reprints &amp; permissions</a><br>
+  <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359af4076e5b3bb4ea0e4e0990853cd778249858c4e852823d1d99518a6be11874985ab179727ccbdb69ffa4fbb75ea9d354" style="color: #FFFFFF; text-decoration: none;">Contact us</a>
+ </div>
+
+</td></tr></tbody></table>
+
+<table bgcolor="#333333" width="100%" style="width:100%!important" cellpadding="20" cellspacing="0" border="0"><tbody><tr><td align="left">
+
+ <div style="color: #ffffff; font-family: helvetica, arial, sans-serif; font-size: 11px;">
+ <a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ada12c8849a7b65131a13f10d83a75cb677820a0efcf930daa2ac2640a129048135762848b5636126ba24f2cb5eebe306" style="color: #999999; text-decoration: none;">Manage Your E-mail Subscription Preferences | Unsubscribe</a><br>
+ This email was sent on behalf of <em>Science Advances</em> TOC to: {email}<br> 
+ AAAS / <EM>Science</EM>&nbsp; |&nbsp; 1200 New York Avenue NW&nbsp; |&nbsp; Washington, DC 20005&nbsp; |&nbsp; U.S.A.&nbsp;<br> 
+ +1 202-326-6417&nbsp; |&nbsp; <a href="mailto:reply@aaas.sciencepubs.org" style="color: #999999; text-decoration: none;">reply@aaas.sciencepubs.org</a> |&nbsp;<a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ac5d3cd1e804fd0310ff0ee68e8eeb57b07ca2ad16c294e1f218bbfa9a0516cc92f8cad271ae196dfe03eb3966eb48183" style="color: #999999; text-decoration: none;">Privacy Policy</a>
+ </div>
+
+</td></tr></tbody></table><!---------- footer {end} ---------->
+
+<table class="block" bgcolor="#132936" width="100%" style="width:100%!important" cellpadding="0" cellspacing="0" border="0">
+<tr>
+ <td>
+  <table width="100%" style="width:100%!important" cellpadding="0" cellspacing="0" border="0">
+  <tr>
+   <td align="center">
+    &nbsp;<br><span style="color: #ffffff; font-family: helvetica, arial, sans-serif; font-size: 12px;"><b>Brought to you by Jackson Immuno Research</b></span>
+    <br /><br /><a href="http://click.aaas.sciencepubs.org/?qs=a58ae9474f2c359ab2dd6e06aad150fd61912c5d4bafbc7e87ee7da75d0d7e144166a6bcc2646bc944e3ef432dde9b7a4992bb99373a77b1"><img src="http://sciencestatic.aws.aaas.org/email/1557861590.jpg" border="0" alt="" /></a>   </td>
+  </tr>
+  </table>
+  <table width="100%" style="width:100%!important" cellpadding="20" cellspacing="0" border="0">
+  <tr>
+   <td align="left">
+    <span style="color: #ffffff; font-family: helvetica, arial, sans-serif; font-size: 12px;"></span>
+   </td>
+  </tr>
+  </table>
+ </td>
+</tr>
+</table>
+
+</td></tr></tbody></table>
+<br>&nbsp;</td></tr></tbody></table>
+<img src="http://click.aaas.sciencepubs.org/open.aspx?ffcb10-fe8f16787765007473-fe3f15737264057c741670-fe921372746d067c72-ff961273-fe5913797361057d741d-ff9a1673" width="1" height="1">
+</body>
+</html>
+
+--tLEaIIYcPCdO=_?:--
+

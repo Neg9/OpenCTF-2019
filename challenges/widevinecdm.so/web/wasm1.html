@@ -1,0 +1,31 @@
+<script type="text/javascript" src="sq.js"></script>
+<script>
+function gettoit()
+{
+    document.write(Module._x(4));
+}
+window.onload = async function(){
+	Module.onRuntimeInitialized = function() {
+	  gettoit();
+	}
+}
+/*
+window.onload = async function(){
+
+let imports = {};
+let memory = null;
+let exports = null;
+
+let request = await fetch( 'sq.wasm' );
+let binary = await request.arrayBuffer();
+
+imports['memory'] = new WebAssembly['Memory']( {'initial':32} );
+memory = new Uint8Array( imports['memory']['buffer'] );
+let program = await WebAssembly['instantiate']( binary, { "env":imports } );
+
+let instance = program['instance'];
+exports = instance['exports'];
+}
+*/
+
+</script>

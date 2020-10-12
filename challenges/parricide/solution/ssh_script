@@ -1,0 +1,6 @@
+#!/bin/bash
+
+HOST=localhost
+PORT=32773
+
+ssh kidd0@$HOST -p $PORT "bash -c \"(exec 5<>/proc/self/fd/0; (head -c 80 > /dev/null; head -c 100) | python3 -c 'import os; os.write(1, bytes(map(lambda b: (~b)&0xff, os.read(0, 100))))' | ./parricide | tee /proc/self/fd/5 2>&1 )\""

@@ -1,0 +1,19 @@
+dig txt 200608._domainkey.aaas.sciencepubs.org
+
+; <<>> DiG 9.12.3-P4 <<>> txt 200608._domainkey.aaas.sciencepubs.org
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26244
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;200608._domainkey.aaas.sciencepubs.org.        IN TXT
+
+;; ANSWER SECTION:
+200608._domainkey.aaas.sciencepubs.org. 900 IN TXT "k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDGoQCNwAQdJBy23MrShs1EuHqK/dtDC33QrTqgWd9CJmtM3CK2ZiTYugkhcxnkEtGbzg+IJqcDRNkZHyoRezTf6QbinBB2dbyANEuwKI5DVRBFowQOj9zvM3IvxAEboMlb0szUjAoML94HOkKuGuCkdZ1gbVEi3GcVwrIQphal1QIDAQAB"
+
+;; Query time: 79 msec
+;; SERVER: 192.168.88.1#53(192.168.88.1)
+;; WHEN: Sat May 18 18:30:24 PDT 2019
+;; MSG SIZE  rcvd: 294
+

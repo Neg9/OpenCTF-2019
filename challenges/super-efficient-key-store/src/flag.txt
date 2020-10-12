@@ -1,0 +1,1 @@
+flag{n0th!ng_could_g0_wrong}

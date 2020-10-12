@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Flip the Script</title>
+      <meta charset="utf-8">
+      <style>
+        #input {
+          width: 20em;
+          padding: .25em;
+        }
+        #output div {
+          margin-top: 1em;
+        }
+        .pass {
+          color: green;
+        }
+        .fail {
+          color: red;
+        }
+        code {
+          background: #eee;
+          padding: 0.2em;
+          border: 1px solid #ccc;
+        }
+        li {
+          margin: .5em 0;
+        }
+      </style>
+    </head>
+    <body>
+      <div id="explanation">
+      <p>This is a JavaScript challenge. Your input is injected three ways:</p>
+      <ul>
+        <li><code>YOUR_INPUT</code></li>
+        <li><code>"YOUR_INPUT"</code></li>
+        <li><code>'YOUR_INPUT'</code></li>
+      </ul>
+      <p>Your task is to access the <code>target.exploit</code>
+      attribute in all three cases, using a single payload.</p>
+      <p>The input whitelist is <code>'"/*+target.exploit</code>.</p>
+      <p>You can use at most 3 <code>*</code> characters,
+      and 28 characters total.</p>
+      </div>
+      <input id="input" value="target.exploit" autofocus>
+      <div id="output"></div>
+      <script src="flip-the-script.js"></script>
+      <script src="client.js"></script>
+    </body>
+</html>

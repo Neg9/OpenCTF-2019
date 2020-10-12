@@ -1,0 +1,2 @@
+1ae8ccd0e7985cc0b6203a55855a1034afc252980e970ca90e5202689f947ab9
+flag{writeup required. no exceptions. Hidden Keys to Software Break-ins and Unauthorized Entry - Dmitry Sklyarov}

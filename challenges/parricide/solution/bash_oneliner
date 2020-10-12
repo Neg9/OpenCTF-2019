@@ -1,0 +1,5 @@
+#!/bin/bash
+if [ ! -f buf ]; then 
+    mkfifo buf
+fi
+(head -c 80 buf > /dev/null; head -c 100 buf) | python3 -c 'import os; os.write(1, bytes(map(lambda b: (~b)&0xff, os.read(0, 100))))' | ./parricide | tee buf 

@@ -1,0 +1,6 @@
+python3 sm5asm.py -o sm5_66.o sm5_66.S 
+hexdump -C sm5_66.o 
+00000000  56 75 75                                          |Vuu|
+00000003
+
+This is wrong, but was my first run. hooray!

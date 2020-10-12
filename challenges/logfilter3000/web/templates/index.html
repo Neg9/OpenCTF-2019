@@ -1,0 +1,33 @@
+<html>
+  <head>
+    <style>
+body {
+  margin: 1em;
+}
+table td {
+  padding: 1em;
+}
+    </style>
+  </head>
+  <body>
+    <form>
+      <input type="number" name="sev" placeholder="sev" />
+      <input type="text" name="message" placeholder="message" />
+      <input type="text" name="type" placeholder="type" />
+      <input type="text" name="time" placeholder="time" />
+      
+      <input type="submit" value="Search" />
+      
+      <table>
+      {% for result in results %}
+        <tr> 
+          <td>{{ result.sev }}</td>
+          <td>{{ result.message }}</td>
+          <td>{{ result.type }}</td>
+          <td>{{ result.time }}</td>
+        </tr> 
+      {% endfor %}
+      </table>
+    </form>
+  </body>
+</html>

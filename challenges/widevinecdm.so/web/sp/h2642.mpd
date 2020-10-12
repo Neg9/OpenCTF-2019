@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Generated with https://github.com/google/shaka-packager version 3c26dfbd53-release-->
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" xmlns:cenc="urn:mpeg:cenc:2013" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" minBufferTime="PT2S" type="static" mediaPresentationDuration="PT64.46875S">
+  <Period id="0">
+    <AdaptationSet id="0" contentType="video" width="1280" height="720" frameRate="16384/512" subsegmentAlignment="true" par="16:9">
+      <ContentProtection value="cenc" schemeIdUri="urn:mpeg:dash:mp4protection:2011" cenc:default_KID="b1815e49-7762-500b-be1c-274ab23da66b"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh>AAAALHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAwiBGJmb2ZI49yVmwY=</cenc:pssh>
+      </ContentProtection>
+      <Representation id="0" bandwidth="1823548" codecs="avc1.42c01e" mimeType="video/mp4" sar="1:1">
+        <BaseURL>h264_720p2.mp4</BaseURL>
+        <SegmentBase indexRange="1076-1215" timescale="16384">
+          <Initialization range="0-1075"/>
+        </SegmentBase>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>

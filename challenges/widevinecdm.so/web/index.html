@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <style>
+    body { margin:0px; font-family: "droid sans mono",monospace; background-color: #222; }
+    .nav { font-size:18pt; font-weight:bold; background-color: #999; border-bottom: 1px #666 solid; }
+    .vid { background-color: #8c9999; text-align:center; padding-top:12px; padding-bottom:12px; }
+    .footer { background-color: #666; padding: 10px; }
+    .watermark { /*position:absolute; left:90%; top:80%;*/ float:right; }
+    </style>
+    <!-- Shaka Player compiled library: -->
+    <script src="js/shaka-player.compiled.js"></script>
+    <!-- Your application source: -->
+<script>
+
+var manifestUri = '/sp/h2642.mpd';
+var licenseServer = 'https://cwip-shaka-proxy.appspot.com/no_auth';
+
+function initApp() {
+  // Install built-in polyfills to patch browser incompatibilities.
+  shaka.polyfill.installAll();
+
+  // Check to see if the browser supports the basic APIs Shaka needs.
+  if (shaka.Player.isBrowserSupported()) {
+    // Everything looks good!
+    initPlayer();
+  } else {
+    // This browser does not have the minimum set of APIs we need.
+    console.error('Browser not supported!');
+  }
+}
+
+function initPlayer() {
+  // Create a Player instance.
+  var video = document.getElementById('video');
+  var player = new shaka.Player(video);
+
+  // Attach player to the window to make it easy to access in the JS console.
+  window.player = player;
+
+  player.configure({
+    drm: {
+      servers: { 'com.widevine.alpha': licenseServer }
+    }
+  });
+
+  // Try to load a manifest.
+  player.load(manifestUri).then(function() {
+    // The video should now be playing!
+  }).catch(onError);
+
+  // Listen for error events.
+  player.addEventListener('error', onErrorEvent);
+
+}
+
+function onErrorEvent(event) {
+  // Extract the shaka.util.Error object from the event.
+  onError(event.detail);
+}
+
+function onError(error) {
+  // Log the error.
+  console.error('Error code', error.code, 'object', error);
+}
+
+document.addEventListener('DOMContentLoaded', initApp);
+
+</script>
+<!--<script src="myapp.js"></script>-->
+
+  </head>
+  <body>
+  <div class="nav">&nbsp;Neg9 CTF Video Streaming Platform&nbsp;</div>
+  <div class="vid">
+  <video id="video"
+           width="99%"
+           poster="/video.ogv.jpg"
+           controls autoplay></video>
+           </div>
+           <br clear="both" />
+    <img class="watermark" src="final1.png" />
+    <div class="footer">
+    &copy; 2019 Anonymous Hacker
+    </div>
+    </body>
+</html>

@@ -1,0 +1,1 @@
+Challenge represents a letter-based book cipher using the POC||GTFO "Bible". Players would have already completed the first word-based cipher, and may notice early that some of the second numbers in the pairs in this challenge are much larger. Pairs of numbers in the challenge description represent page-letternumber.

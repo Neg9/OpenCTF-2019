@@ -1,0 +1,8 @@
+Double Substitution Cipher
+
+Think clearly about this:
+
+provide not the key but the key encrypted with a cipher. The user must then get the key to the cipher from a server that requires authentication. The authentication can't be done willy nilly. Then the video plays but you can't just give the key as the flag. You have to get the raw data from the video, so that is where reverse engineering widevine comes in. Instead of attacking widevine, you simply take the key and decrypt the video.
+
+So that is where double substitution comes in. They won't know how to do it, but they'll have some obfuscated WASM that does it.
+

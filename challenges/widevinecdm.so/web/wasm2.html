@@ -1,0 +1,36 @@
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<script>
+function gettoit()
+{
+    console.log(exports['_x'](4));
+    //console.log("hi");
+}
+let imports = {};
+let memory = null;
+let exports = null;
+
+window.onload = async function(){
+
+let request = await fetch( 'sq.wasm' );
+let binary = await request.arrayBuffer();
+
+imports['memory'] = new WebAssembly['Memory']( {'initial':256, maximum: 256} );
+memory = new Uint8Array( imports['memory']['buffer'] );
+imports['__memory_base'] = 1024;
+imports['__table_base'] = 0x0;
+imports['table'] = new WebAssembly['Table']( {initial: 0, maximum: 0, element: 'anyfunc'} );
+imports['abortStackOverflow'] = function(){ console.log("Is this necessary?") };
+imports['STACKTOP'] = 0;
+imports['STACK_MAX'] = memory.buffer.byteLength;
+let program = await WebAssembly['instantiate']( binary, { "env":imports } );
+
+let instance = program['instance'];
+exports = instance['exports'];
+
+gettoit();
+}
+
+</script>

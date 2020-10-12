@@ -1,0 +1,249 @@
++
+--------packet break-------
+$qSupported:multiprocess+;swbreak+;hwbreak+;qRelocInsn+;fork-events+;vfork-events+;exec-events+;vContSupported+;QThreadEvents+;no-resumed+;xmlRegisters=i386#6a
+--------packet break-------
++
+--------packet break-------
+$vMustReplyEmpty#3a
+--------packet break-------
++
+--------packet break-------
+$QStartNoAckMode#b0
+--------packet break-------
++
+--------packet break-------
+$QProgramSignals:0;1;3;4;6;7;8;9;a;b;c;d;e;f;10;11;12;13;14;15;16;17;18;19;1a;1b;1c;1d;1e;1f;20;21;22;23;24;25;26;27;28;29;2a;2b;2c;2d;2e;2f;30;31;32;33;34;35;36;37;38;39;3a;3b;3c;3d;3e;3f;40;41;42;43;44;45;46;47;48;49;4a;4b;4c;4d;4e;4f;50;51;52;53;54;55;56;57;58;59;5a;5b;5c;5d;5e;5f;60;61;62;63;64;65;66;67;68;69;6a;6b;6c;6d;6e;6f;70;71;72;73;74;75;76;77;78;79;7a;7b;7c;7d;7e;7f;80;81;82;83;84;85;86;87;88;89;8a;8b;8c;8d;8e;8f;90;91;92;93;94;95;96;97;#75
+--------packet break-------
+$Hgp0.0#ad
+--------packet break-------
+$qXfer:features:read:target.xml:0,1000#0c
+--------packet break-------
+$qXfer:features:read:target.xml:1000,1000#9d
+--------packet break-------
+$qXfer:auxv:read::0,1000#6b
+--------packet break-------
+$QNonStop:0#8c
+--------packet break-------
+$qTStatus#49
+--------packet break-------
+$qTfV#81
+--------packet break-------
+$qTsV#8e
+--------packet break-------
+$?#3f
+--------packet break-------
+$qXfer:threads:read::0,1000#92
+--------packet break-------
+$qAttached:565b#cb
+--------packet break-------
+$qXfer:exec-file:read:565b:0,1000#1b
+--------packet break-------
+$vFile:setfs:0#bf
+--------packet break-------
+$vFile:open:6a7573742070726f62696e67,0,1c0#ed
+--------packet break-------
+$vFile:setfs:565b#91
+--------packet break-------
+$vFile:open:2f62696e2f6c73,0,0#79
+--------packet break-------
+$vFile:fstat:5#c1
+--------packet break-------
+$vFile:fstat:5#c1
+--------packet break-------
+$vFile:fstat:5#c1
+--------packet break-------
+$vFile:pread:5,47ff,0#6a
+--------packet break-------
+$vFile:pread:5,47ff,1f6d0#9b
+--------packet break-------
+$vFile:pread:5,47ff,40#9e
+--------packet break-------
+$vFile:fstat:5#c1
+--------packet break-------
+$vFile:pread:5,47ff,1f5d8#a2
+--------packet break-------
+$vFile:pread:5,47ff,254#d5
+--------packet break-------
+$vFile:fstat:5#c1
+--------packet break-------
+$vFile:open:2f62696e2f6c73,0,0#79
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:pread:6,47ff,0#6b
+--------packet break-------
+$vFile:pread:6,47ff,1f6d0#9c
+--------packet break-------
+$vFile:pread:6,47ff,40#9f
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:pread:6,47ff,1f5d8#a3
+--------packet break-------
+$vFile:pread:6,47ff,254#d6
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$vFile:pread:6,47ff,1f5c8#a2
+--------packet break-------
+$vFile:open:2f62696e2f6c732e6465627567,0,0#26
+--------packet break-------
+$vFile:open:2f62696e2f2e64656275672f6c732e6465627567,0,0#6b
+--------packet break-------
+$vFile:fstat:6#c2
+--------packet break-------
+$Hc-1#09
+--------packet break-------
+$qOffsets#4b
+--------packet break-------
+$qXfer:auxv:read::0,1000#6b
+--------packet break-------
+$m555555554040,1f8#d8
+--------packet break-------
+$vFile:pread:5,47ff,40#9e
+--------packet break-------
+$qXfer:libraries-svr4:read::0,1000#20
+--------packet break-------
+$vFile:setfs:0#bf
+--------packet break-------
+$vFile:open:2f70726f632f32323130372f7461736b2f32323130372f6d617073,0,1c0#d1
+--------packet break-------
+$vFile:pread:7,47ff,0#6c
+--------packet break-------
+$vFile:pread:7,47ff,380#d7
+--------packet break-------
+$vFile:close:7#b7
+--------packet break-------
+$vFile:pread:5,47ff,238#d7
+--------packet break-------
+$vFile:setfs:565b#91
+--------packet break-------
+$vFile:open:2f6c696236342f6c642d6c696e75782d7838362d36342e736f2e32,0,0#33
+--------packet break-------
+$vFile:fstat:7#c3
+--------packet break-------
+$vFile:fstat:7#c3
+--------packet break-------
+$vFile:fstat:7#c3
+--------packet break-------
+$vFile:pread:7,47ff,0#6c
+--------packet break-------
+$vFile:pread:7,47ff,28068#44
+--------packet break-------
+$vFile:pread:7,47ff,40#a0
+--------packet break-------
+$vFile:fstat:7#c3
+--------packet break-------
+$vFile:pread:7,47ff,27fb0#9d
+--------packet break-------
+$qXfer:libraries-svr4:read::0,1000#20
+--------packet break-------
+$vFile:open:2f6c696236342f6c642d6c696e75782d7838362d36342e736f2e32,0,0#33
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:pread:8,47ff,0#6d
+--------packet break-------
+$vFile:pread:8,47ff,28068#45
+--------packet break-------
+$vFile:pread:8,47ff,40#a1
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:pread:8,47ff,27fb0#9e
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:pread:8,47ff,938#e1
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:pread:8,47ff,6d0#07
+--------packet break-------
+$vFile:pread:8,47ff,3a0#01
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$vFile:pread:8,47ff,27f98#7d
+--------packet break-------
+$vFile:open:2f6c696236342f6c642d322e32382e736f2e6465627567,0,0#f3
+--------packet break-------
+$vFile:open:2f6c696236342f2e64656275672f6c642d322e32382e736f2e6465627567,0,0#38
+--------packet break-------
+$vFile:fstat:8#c4
+--------packet break-------
+$qSymbol::#5b
+--------packet break-------
+$qSymbol::6764625f6167656e745f6764625f74705f686561705f627566666572#1e
+--------packet break-------
+$qSymbol::6e70746c5f76657273696f6e#4d
+--------packet break-------
+$qSymbol::#5b
+--------packet break-------
+$qSymbol::6764625f6167656e745f6764625f74705f686561705f627566666572#1e
+--------packet break-------
+$qSymbol::6e70746c5f76657273696f6e#4d
+--------packet break-------
+$vFile:pread:7,47ff,938#e0
+--------packet break-------
+$vFile:fstat:7#c3
+--------packet break-------
+$vFile:pread:7,47ff,6d0#06
+--------packet break-------
+$vFile:pread:7,47ff,3a0#00
+--------packet break-------
+$m7ffff7fe4810,1#68
+--------packet break-------
+$vFile:close:7#b7
+--------packet break-------
+$m7ffff7fd3000,40#90
+--------packet break-------
+$m7ffff7fd3040,e0#c5
+--------packet break-------
+$m7ffff7fd3000,2000#ee
+--------packet break-------
+$qSymbol::#5b
+--------packet break-------
+$qSymbol::6764625f6167656e745f6764625f74705f686561705f627566666572#1e
+--------packet break-------
+$qSymbol::6e70746c5f76657273696f6e#4d
+--------packet break-------
+$qXfer:threads:read::0,1000#92
+--------packet break-------
+$m7ffff7fd6210,1#63
+--------packet break-------
+$m7ffff7fd6210,1#63
+--------packet break-------
+$vFile:pread:6,47ff,1b0b8#98
+--------packet break-------
+$vFile:pread:8,47ff,23cb8#9f
+--------packet break-------
+$qSymbol::#5b
+--------packet break-------
+$qSymbol::6764625f6167656e745f6764625f74705f686561705f627566666572#1e
+--------packet break-------
+$qSymbol::6e70746c5f76657273696f6e#4d
+--------packet break-------
+$qTStatus#49
+--------packet break-------
+$qTfP#7b
+--------packet break-------
+$qXfer:btrace-conf:read::0,1000#eb
+--------packet break-------
+$m0,4#fd
+--------packet break-------
+$qTStatus#49
+--------packet break-------
+$vKill;565b#3f

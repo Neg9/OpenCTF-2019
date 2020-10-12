@@ -1,0 +1,16 @@
+
+
+web/playlist.m3u8: fire3.mp4 key_info
+	ffmpeg -i fire3.mp4 -c copy -bsf:v h264_mp4toannexb -hls_time 10 -hls_key_info_file key_info web/playlist.m3u8
+
+key_info: video.key
+	echo "https://openctf.hack/video.key" >key_info
+	echo "video.key" >>key_info
+	# This is the IV, it is good to not screw with this unless you're prepared.
+	# dd if=/dev/urandom bs=64 count=3 |sha512sum |cut -c 1-32
+	echo "5c3d28d9553d133eb0e7aff0106263ee" >>key_info
+
+video.key:
+	# This is the actual key that we encrypt with. Don't mess with it unless you are prepared.
+	# FIXME: there's a pretty clear disconnect between the m3u8 and the size of this key (256-bit)
+	dd if=/dev/urandom bs=64 count=4 |sha512sum |xxd -ps -r |dd bs=32 count=1 >video.key

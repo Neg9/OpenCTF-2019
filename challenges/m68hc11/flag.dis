@@ -1,0 +1,39 @@
+
+flag.bin:     file format binary
+
+
+Disassembly of section .data:
+
+00000000 <.data>:
+   0:	66 31       	ror	0x31,x
+   2:	34          	des
+   3:	39          	rts
+   4:	7b          	.byte	0x7b
+   5:	74 68 69    	lsr	0x6869
+   8:	73 20 69    	com	0x2069
+   b:	73 20 6a    	com	0x206a
+   e:	75          	.byte	0x75
+   f:	73 74 20    	com	0x7420
+  12:	61          	.byte	0x61
+  13:	20 74       	bra	0x0x89
+  15:	65          	.byte	0x65
+  16:	73 74 20    	com	0x7420
+  19:	6f 66       	clr	0x66,x
+  1b:	20 74       	bra	0x0x91
+  1d:	68 65       	asl	0x65,x
+  1f:	20 65       	bra	0x0x86
+  21:	6e 63       	jmp	0x63,x
+  23:	72          	.byte	0x72
+  24:	79 70 74    	rol	0x7074
+  27:	69 6f       	rol	0x6f,x
+  29:	6e 20       	jmp	0x20,x
+  2b:	6d 65       	tst	0x65,x
+  2d:	74 68 6f    	lsr	0x686f
+  30:	64 20       	lsr	0x20,x
+  32:	6f 66       	clr	0x66,x
+  34:	20 63       	bra	0x0x99
+  36:	68 6f       	asl	0x6f,x
+  38:	69 63       	rol	0x63,x
+  3a:	65          	.byte	0x65
+  3b:	tst	Address 0x000000000000003c is out of bounds.
+
